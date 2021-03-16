@@ -67,7 +67,6 @@ After step 3 (see above steps) ran through, results are found within the previou
 
 ## Running own experiments
 This project was originally implemented for the analysis of bearing data from the FEMTO-ST dataset. 
-If you 
 
 ### Adding own data
 If you want to use existing methods for data pre-processing your data has to adhere to the format of that data set 
